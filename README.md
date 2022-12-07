@@ -24,4 +24,4 @@ SBC8080-like computer implemented on Tang Nano 9K using light8080 CPU core
 - mcu_uart.vhdlの簡略化(irq関連の除去)
 
 ## 制限事項
-- UARTは最低限の通信機能しか実装されていないので、8251のレジスタへのアクセス等は無視されます。
+- UARTは最低限の通信機能しか実装されていないので、8251の制御レジスタへの書き込み等は無視されます。
