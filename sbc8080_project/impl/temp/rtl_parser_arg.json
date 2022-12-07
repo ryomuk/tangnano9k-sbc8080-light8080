@@ -1,0 +1,42 @@
+{
+ "Files" : [
+  {
+   "Library" : "work",
+   "Path" : "D:/wks/ework/FPGA/TangNano/github/tangnano9k-sbc8080-light8080/sbc8080_project/src/light8080.vhdl",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/wks/ework/FPGA/TangNano/github/tangnano9k-sbc8080-light8080/sbc8080_project/src/light8080_ucode_pkg.vhdl",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/wks/ework/FPGA/TangNano/github/tangnano9k-sbc8080-light8080/sbc8080_project/src/mcu/ROM/obj_code_pkg.vhdl",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/wks/ework/FPGA/TangNano/github/tangnano9k-sbc8080-light8080/sbc8080_project/src/mcu/mcu80.vhdl",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/wks/ework/FPGA/TangNano/github/tangnano9k-sbc8080-light8080/sbc8080_project/src/mcu/mcu80_pkg.vhdl",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/wks/ework/FPGA/TangNano/github/tangnano9k-sbc8080-light8080/sbc8080_project/src/mcu/mcu80_uart.vhdl",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/wks/ework/FPGA/TangNano/github/tangnano9k-sbc8080-light8080/sbc8080_project/impl/temp/rtl_parser.result",
+ "Top" : "mcu80",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

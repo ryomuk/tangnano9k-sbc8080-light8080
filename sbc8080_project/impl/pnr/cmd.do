@@ -1,0 +1,11 @@
+-d D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\gwsynthesis\sbc8080_project.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu80_tn9k.cst
+-cfg D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23

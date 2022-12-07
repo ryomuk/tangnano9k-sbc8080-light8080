@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="mcu80" Register="44" Alu="25" Lut="63" Bsram="20">
+    <SubModule name="cpu" Register="94" Alu="16" Lut="181" Bsram="1" Ssram="2"/>
+    <SubModule name="uart" Register="85" Alu="24" Lut="85"/>
+</Module>

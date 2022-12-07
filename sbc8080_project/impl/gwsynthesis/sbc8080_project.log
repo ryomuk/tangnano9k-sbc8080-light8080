@@ -1,0 +1,45 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080_ucode_pkg.vhdl'
+Analyzing package 'light8080_ucode_pkg'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080_ucode_pkg.vhdl":6)
+Analyzing VHDL file 'D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080.vhdl'
+Analyzing entity 'light8080'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080.vhdl":39)
+Analyzing architecture 'microcoded'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080.vhdl":108)
+Analyzing VHDL file 'D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80_pkg.vhdl'
+Analyzing package 'mcu80_pkg'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80_pkg.vhdl":26)
+Analyzing package body 'mcu80_pkg'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80_pkg.vhdl":57)
+Analyzing VHDL file 'D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\ROM\obj_code_pkg.vhdl'
+Analyzing package 'obj_code_pkg'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\ROM\obj_code_pkg.vhdl":13)
+Analyzing VHDL file 'D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80_uart.vhdl'
+Analyzing entity 'mcu80_uart'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80_uart.vhdl":120)
+Analyzing architecture 'hardwired'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80_uart.vhdl":144)
+Analyzing VHDL file 'D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80.vhdl'
+Analyzing entity 'mcu80'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80.vhdl":55)
+Analyzing architecture 'hardwired'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80.vhdl":82)
+Processing 'mcu80(hardwired)'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80.vhdl":55)
+Extracting RAM for identifier 'rom'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80.vhdl":133)
+Extracting RAM for identifier 'ram'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80.vhdl":134)
+Processing 'light8080(microcoded)'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080.vhdl":39)
+Extracting RAM for identifier 'rom'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080.vhdl":176)
+Extracting RAM for identifier 'rbank'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\light8080.vhdl":215)
+Processing 'mcu80_uart(baud_rate=9600,clock_freq=27000000)(hardwired)'("D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu\mcu80_uart.vhdl":120)
+NOTE  (EX0101) : Current top module is "mcu80"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\gwsynthesis\sbc8080_project.vg" completed
+[100%] Generate report file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\gwsynthesis\sbc8080_project_syn.rpt.html" completed
+GowinSynthesis finish

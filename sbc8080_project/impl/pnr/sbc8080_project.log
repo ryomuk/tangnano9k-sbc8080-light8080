@@ -1,0 +1,29 @@
+Reading netlist file: "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\gwsynthesis\sbc8080_project.vg"
+Parsing netlist file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\gwsynthesis\sbc8080_project.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\src\mcu80_tn9k.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\pnr\sbc8080_project.power.html" completed
+Generate file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\pnr\sbc8080_project.pin.html" completed
+Generate file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\pnr\sbc8080_project.rpt.html" completed
+Generate file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\pnr\sbc8080_project.rpt.txt" completed
+Generate file "D:\wks\ework\FPGA\TangNano\github\tangnano9k-sbc8080-light8080\sbc8080_project\impl\pnr\sbc8080_project.tr.html" completed
+Wed Dec 07 17:14:27 2022
+
