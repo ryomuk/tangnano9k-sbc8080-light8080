@@ -1,5 +1,5 @@
 ## このディレクトリにあるもの
-- README_JP.txt: このファイル
+- README_JP.md: このファイル
 - bin2vhdl.c: バイナリファイルからvhdlを生成するプログラム
 - bin2vhdl.exe: bin2vhdl.cをcygwinのgccでコンパイルしたもの
 - MSBAS80.obj_code_pkg.vhdl: MSBAS80.HEXから作ったvhdlファイル
